@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+}
+
+.accordion-heading {
+  margin-bottom: 20px;
+}
+.accordion {
+  margin-top: 20px;
+}
